@@ -1,16 +1,4 @@
 
-# Movie Predictor
-
-**Movie Predictor** is a project that uses machine learning to predict movie ratings based on various features. This project is aimed at beginners who are learning how to use Random Forest Regressor for predicting numerical values.
-
----
-
-## Table of Contents
-1. [Installation](#installation)
-2. [Dataset](#dataset)
-3. [Usage](#usage)
-4. [Model Training](#model-training)
-5. [Evaluation](#evaluation)Got it! Here's an updated version of the README file that includes the explanation for both the training and prediction scripts:
 
 ---
 
